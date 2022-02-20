@@ -340,7 +340,7 @@ SELECT AVG(population) AS avg_pop,
 
 
 
-Looks like the average population is around 32 million and average area is 55000 km^2^
+Looks like the average population is around 32 million and average area is 55000 km<sup>2</sup>
 
 **Step 5)** Find countries that are densley populated.    
 We will need to calculate the countries with an above average population and below-average area.
